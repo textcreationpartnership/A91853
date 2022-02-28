@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocencie vindicated. Or, A brief answer to part of a scandalous paper, entituled A true narrative of the occasion and causes of the late Lord General Cromwel's anger against Lieutenant Colonel Joyce, &amp;c. And his proceedings against him, to cashier him from the Army. By Jo. Rix, once lieutenant to the said Lt. Colonel Joyce.</title>
+            <author>Rix, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91853</idno>
+            <idno type="STC">Wing R1569</idno>
+            <idno type="STC">Thomason E988_17</idno>
+            <idno type="STC">ESTC R203474</idno>
+            <idno type="EEBO-CITATION">99863420</idno>
+            <idno type="PROQUEST">99863420</idno>
+            <idno type="VID">168635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168635)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocencie vindicated. Or, A brief answer to part of a scandalous paper, entituled A true narrative of the occasion and causes of the late Lord General Cromwel's anger against Lieutenant Colonel Joyce, &amp;c. And his proceedings against him, to cashier him from the Army. By Jo. Rix, once lieutenant to the said Lt. Colonel Joyce.</title>
+                  <author>Rix, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by J.C.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to part of the work by Joyce.</note>
+                  <note>Annotation on Thomason copy: "June. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Joyce, George, fl. 1647. --  True narrative of the occasions and causes of the late Lord Gen. Cromwell's anger and indignation against Lieut. Col. George Joyce, (sometimes Cornet Joyce, who secured the King at Homby).</term>
+               <term>Cromwell, Oliver, 1599-1658.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168635:1" rendition="simple:additions"/>
+            <p>
+               <hi>Innocencie Vindicated.</hi> Or, a brief ANSWER To part of A Scandalous Paper, Entituled A true Narrative of the Occaſion and Cauſes of the late Lord Ge<g ref="char:EOLhyphen"/>neral <hi>Cromwel</hi>'s anger againſt. Lieutenant Colonel <hi>JOYCE,</hi> &amp;c. AND His proceedings againſt him, to caſhier him from the Army.</p>
+            <p>By <hi>Jo. Rix,</hi> once Lieutenant to the ſaid Lt. Colonel <hi>Joyce.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 8. 17.</bibl>
+               <p>
+                  <hi>He that is firſt in his own cauſe ſeemeth juſt, but his neighbour cometh and ſearcheth him.</hi>
+               </p>
+            </q>
+            <p>Printed at <hi>London,</hi> by <hi>J. C.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168635:2"/>
+            <pb n="1" facs="tcp:168635:2"/>
+            <head>Innocencie Vindicated.</head>
+            <p>A Mans good name being as pretious ointment, which once ſpilt cauſeth diligent gathering together again, but not ac<g ref="char:EOLhyphen"/>compliſhed without ſome loſs, which is eaſier to be diſpenſed withal then the whole; the which being my preſent Caſe, I ſhall without further Apologie, addreſs my ſelf to make anſwer to that part of the premiſed Paper that concerns me, <hi>viz.</hi>
+            </p>
+            <p>That in pag. 3. of the ſaid Paper, line 28. the ſaid Lieutenant Co<g ref="char:EOLhyphen"/>lonel <hi>Joyce</hi> ſaith, <hi>That upon his bearing Teſtimony in the publike meetings of the Officers, againſt the Armies Apoſtacie at that time, who were then concur<g ref="char:EOLhyphen"/>ring to make the ſaid Lord General Lord Protector, Indeavours were uſed to ruine him.</hi> To which it is anſwered, That that could be no cauſe of his ruine, becauſe the effects of a thing ever followeth after, and never go before the cauſe: and if no ſuch diſcourſe as is premiſed was debated before, nor on foot when Lt. Colonel <hi>Joyce</hi> was caſhiered the Army, then he could bear no Teſtimony againſt the Armies Apoſtacie, in that which was not, nor againſt their concurring to make the Lord General Lord Protector, ſeeing no debate in order thereunto was amongſt them; nei<g ref="char:EOLhyphen"/>ther could his bearing teſtimony (as falſly declared by him) be a cauſe of his ruine, his being either in priſon or caſhiered ſome months before the General was made Protector. And that there was no ſuch diſcourſe, much leſs a concurring therein by the Officers of the Army, one month before the Protector was ſo made, not one Officer that I can ſpeak withal doth remember, but declare the contrary. My ſelf alſo (until after Lt. Colonel <hi>Joyce</hi> was caſhiered) being in commiſſion, was converſant in the Councils, and with the Officers, but never heard one word of ſuch a thing: therefore that which was not of one months being, cannot be the cauſe of that which was ſome months before, and ſo no cauſe of his mine. Next,</p>
+            <p>The Lt. Colonel ſaith, <hi>That I was ſent for from</hi> Portland, <hi>by General</hi> Cromwel, <hi>as an effect of the Premiſes.</hi> This is alſo falſe: I never was ſent for by General <hi>Cromwel,</hi> for the cauſe premiſed, nor for any other, be<g ref="char:EOLhyphen"/>cauſe 1. I was in <hi>London</hi> neer fourteen weeks before the Lt Colonel's Articles were exhibited to the Court Martial. 2. The cauſe of my com<g ref="char:EOLhyphen"/>ing to <hi>London</hi> was as followeth: I being through the malignity of the ſaid Lt. Colonel ſequeſtred from my command, came up upon my own account, to ſeek for Juſtice againſt the arbitrary and unjuſt proceeding
+<pb n="2" facs="tcp:168635:3"/>
+of the ſaid Lt. Colonel <hi>George Joyce,</hi> who now the ſecond time had got<g ref="char:EOLhyphen"/>ten eleven falſe Articles againſt me, I having been acquitted of ſix by Judgement of a Court-Martial, but the 17th of <hi>January</hi> before, and ſent to my command by an Order of the Lord General <hi>Cromwel:</hi> I ſay, in <hi>Auguſt</hi> following, Eleven Articles being again by Lt. Colonel <hi>Joyce</hi> and his Emiſſaries, gotten againſt me, and brought to <hi>London,</hi> leſt the report of them ſhould have render'd me ſo great a Tranſgreſſor, as to have been accounted a favour in him to have put me away privately, as ſome others have been ſerved, when innocent, as to matters of Fact; to prevent this (being firſt ſequeſtered from my Command, by him, as not fit to be longer truſted) I haſted to <hi>London,</hi> and applied my ſelf to the Court-Martial for Juſtice; at which, my Lt. Colonel being filled with fear, would have with-drawn my Articles: Nay, he intreated me to let them be withdrawn: to which I replyed, If he would declare in open Court, that all and every part of them were falſe and ſcandalous, I would conſent to it; but if not, they ſhould be judged of by the Court. The Court asked the Lt. Colonel what he ſaid to it; his anſwer was, That there was many Aggravations, but he could not ſay they were all falſe: whereupon I humbly deſired the Court to proceed to Judgement; which accordingly was done Some of his Articles being as followeth: <hi>vizt For endeavouring to raiſe Forts againſt the Army and Commonwealth, For Mutiny, for falſe Muſters, and wronging Souldiers of their pay,</hi> &amp;c. which if proved, I ſhould have counted it a favour to have had my life given me: but through grace, I had ſo behaved my ſelf both as a Chriſtian, and as a Souldier, that upon the Examination of the ſaid e<g ref="char:EOLhyphen"/>leven Articles, they found me not guilty of any faults, diſorders or of<g ref="char:EOLhyphen"/>fences mentioned in the Articles of War, but for miſdemeanour, not mentioned in the Articles of War; for which I had a milde Re<g ref="char:EOLhyphen"/>proof, and was ſo acquitted by the Court-Martial, held the 29 and 30 day of <hi>Auguſt,</hi> 1653. Thus have I given a true account of my com<g ref="char:EOLhyphen"/>ing to <hi>London,</hi> with the cauſe thereof, which was not as premiſed by Lt. Colonel <hi>Joyce,</hi> whom I had now hopes would rather have printed his Repentance for his unparallell'd cruelty againſt me, without a cauſe; as alſo, his then and ſince endeavours to wound me in the houſe of my Brethren, as well as amongſt all my acquaintance, where he had oppor<g ref="char:EOLhyphen"/>tunity, with lies guilded over with hypocriſie, which cauſed them that loved me to have hard thoughts againſt me, as if I had done the wrong, that received ſo much from him, as declared in the premiſes: yea, as if I had been a malicious envious perſon, as ſome its poſſible (ignorant<g ref="char:EOLhyphen"/>ly) will ſay of me, for writing this paper, though nothing leſs then neceſſity have put me upon it, I not wiſhing him any harm, but hoped a change had been wrought in him; but contrary, now at laſt, to fill up his cup, having printed lies and falſhoods againſt me, ſhould I now keep ſilent, every one would take me to be like himſelf. The wiſe Man ſaith, <hi>An hypocrite with his mouth deſtroyeth his neighbour, but through know<g ref="char:EOLhyphen"/>ledge ſhall the Juſt be delivered.</hi> But the next <hi>Charge</hi> is,</p>
+            <p>
+               <pb n="3" facs="tcp:168635:3"/>
+               <hi>That I was not onely ſent for by General</hi> Cromwel, <hi>but by him incouraged to proſecute my Lieutenant Colonel again.</hi> That I was not ſent for, I have already declared, with the true cauſe of my coming to <hi>London,</hi> and my being acquitted by the Court-Martial, from that falſe charge, which (if proved) would, by the Articles of War, have taken away my life: I ſay, being acquitted then, Lt. Colonel <hi>Joyce</hi> became a mournful ſuiter to me, with tears begging me to return to my command: at which my heart was turned within me; &amp; upon his deſire of forgiveneſs, I was not intended to meddle more or leſs with the Articles againſt him, if not ne<g ref="char:EOLhyphen"/>ceſſitated thereunto: upon which I went to General <hi>Cromwel,</hi> acquain<g ref="char:EOLhyphen"/>ting him that I was acquitted by a Court-Martial, and deſiring to know his Excellencies pleaſure, as <hi>to my returning to my command:</hi> at which the General ſaid, <hi>where is</hi> Joyce<hi>'s Articles? I ſaid, In the Advocates hand: the General then ſaid, I will have them proſecuted; ſaying, Lieutenant, you ſhall fare never the worſe for</hi> Joyce<hi>'s wickedneſs.</hi> This I do declare to the beſt of my knowledge, to be the firſt, and all the encouragement I e<g ref="char:EOLhyphen"/>ver received from General <hi>Cromwel.</hi> Now firſt, conſidering the evil in<g ref="char:EOLhyphen"/>tended towards me by Lt. Colonel <hi>Joyce,</hi> with what expence he had put me to, without cauſe; whether now was the greater evil in General <hi>Cromwel,</hi> to make ſuch a promiſe, or having made it, not to perform it, I never receiving a penny or penny's-worth from him; and I having ſign<g ref="char:EOLhyphen"/>ed to the Articles, as a Witneſs when called, could not do leſs then wit<g ref="char:EOLhyphen"/>neſs to what I knew to be truth; and my conſcience bears me teſtimony that I did it, to the beſt of my remembrance, without reſpect to any Re<g ref="char:EOLhyphen"/>ward promiſed: and as for my proſecuting him, it is falſe; for Serjeant <hi>Tho. Knight</hi> was his proſecutor: and whereas he ſaith, <hi>I was encouraged again, whenas before I could make nothing of it:</hi> I anſwer, That my evi<g ref="char:EOLhyphen"/>dences was before offered to the Commiſſioners in the Country, but be<g ref="char:EOLhyphen"/>cauſe I would not ſign to the Articles, as Proſecutor, the Commiſſioners were ſo much Lt Colonel <hi>Joyce</hi>'s friends, that they would not receive a<g ref="char:EOLhyphen"/>ny teſtimony to the Articles againſt him: and I did refuſe to ſigne them as Proſecutor, becauſe then my evidences would not have been valid, be<g ref="char:EOLhyphen"/>ing the chief Witneſs to make his falſe Muſters appear, and how he wronged the ſouldiers of their pay. I ſay, for that cauſe the Commiſ<g ref="char:EOLhyphen"/>ſioners would not receive evidence to the Articles againſt the Lieut. Colonel, though Serjeant <hi>Knight</hi> offered to ſigne them as Proſecutor; no marvel therefore, that the ſaid Commiſſioners could make nothing of it, as premiſed by Lt Colonel <hi>Joyce.</hi>
+            </p>
+            <p>The next thing he charged upon me, is, <hi>That I ſhould falſly ſwear, That I ſhould hear the Lt. Colonel ſay, in</hi> Adiſtors <hi>in</hi> Portland, <hi>about the death of</hi> Lockyer, <hi>That he was ſorry that</hi> Lockyer <hi>had not piſtoled</hi> Crom<g ref="char:EOLhyphen"/>wel. In anſwer to this, I firſt offer a Query: 1. If the teſtimony of two honeſt Witneſſes to one thing ſhall be accounted falſe ſwearing, what teſtimony in our Age, ſhall be accounted true ſwearing? And that there was ſo in this caſe, I do affirm, and know the contrary cannot be proved. 2. I reply by way of Reaſon, why my Evidences could not be falſe.
+<pb n="4" facs="tcp:168635:4"/>
+1. Becauſe by my teſtimony the Court-Martial found Lt. Colonel <hi>Joyce</hi> a guilty perſon. 2. Becauſe the Court-Martial caſt out the Evidences of ſome perſons, who by the means of Lt. Col. <hi>Joyce</hi> did ſwear againſt me, as of perſons forſworn; but did not do ſo to my Evidence againſt Lt. Col. <hi>Joyce.</hi> 3. Becauſe the Court-Martial, which did conſiſt of many faithful men (as I judge) and many of them Lt. Colonel <hi>Joyce</hi>'s great friends, did upon the ſeveral Evidences by me produced, <hi>&amp;c.</hi> judge him ſo guilty, as to caſhier him the Army.</p>
+            <p>And whereas the ſaid Lt. Colonel declares, That when he could not be perſwaded out of his Commiſſion, during his impriſonment, the which alſo he declares to be an effect of his bearing Teſtimony againſt the Armies Apoſtacy, he ſtill placing that in the Van of his ſufferings, which I am confident was in the Rear, as hath already been declared.</p>
+            <p>And whereas he ſaid, That THEN Articles were drawn againſt him: that was alſo falſe, his own conſcience knowing that Articles were drawn up againſt him, and proof offered thereunto, a month at leaſt, be<g ref="char:EOLhyphen"/>fore his being impriſoned; ſo no effect of his being impriſoned, or re<g ref="char:EOLhyphen"/>fuſing to lay down his Commiſſion, as declared by him, nor of his boa<g ref="char:EOLhyphen"/>ſting that he bare teſtimony againſt the Apoſtacie of the Army, in the matter premiſed, which was ſome months after. In theſe things Lt. Co<g ref="char:EOLhyphen"/>lonel <hi>Joyce</hi> hath verified the uſe of an old Proverb, <hi>viz. That a Lyer had need have a good memory, otherwiſe he will contradict himſelf.</hi>
+            </p>
+            <p>Again, he ſaith, <hi>That by the falſe and double ſwearing,</hi> &amp;c. As to that of falſe ſwearing, I have already made ſuch anſwer, as I hope hath gi<g ref="char:EOLhyphen"/>ven full ſatisfaction to every impartial Reader, of my innocencie from that great ſinne: as alſo to believe, that if Lt. Col. <hi>Joyce</hi> had either been a true man, or a wiſe man, he would not have publiſhed ſo falſe an accu<g ref="char:EOLhyphen"/>ſation with ſo many known lies in print.</p>
+            <p>But whereas he accuſes me with double ſwearing, it is matter of ſor<g ref="char:EOLhyphen"/>row in me, to conſider that his wicked actions ſhould be ſo many, as that I ſhould be called upon to ſwear to more then one Article againſt him, it not being reaſonable to believe that I ſware twice to one particu<g ref="char:EOLhyphen"/>lar<hi>:</hi> and as for my proſecuting him, it was Serjeant <hi>Tho Knight,</hi> as <hi>I</hi> have already declared: and as for my being thereto incouraged, (as falſly ſuggeſted by him) hath been replyed unto already, in order, as they ſtand in his paper.</p>
+            <p>Next, the Lt. Col. ſaith, <hi>That in his own Conſcience he was clear of any crime, or offence,</hi> as his paper ſaid, <hi>unſtable by Law.</hi> Ah poor unſtable ſoul! didſt thou mourn for thy wickedneſs almoſt 6 years ago? hadſt thou then ſo much ſence of guilt as to uſe both lawful &amp; unlawful means to pre<g ref="char:EOLhyphen"/>vent thy coming to a Tryal, the innocent and righteous man being bold as a Lyon? <hi>I</hi> ſay, what waſt thou afraid of, if thy conſcience were clear, as thou now ſeemeſt to have the confidence to affirm? Sure it may be ſaid to Lt. Colonel <hi>Joyce</hi> as it was to <hi>Simon Magus, Thou art ſtill in the gall of bitterneſs, and in the bond of iniquity; thy heart is not right in the</hi>
+               <pb n="5" facs="tcp:168635:4"/>
+               <hi>ſight of God: repent therefore of this thy wickedneſs.</hi>
+            </p>
+            <p>The next Charge is, <hi>That after this, I moved the General, then called Protector, for his promiſed Preferment.</hi> 2. <hi>For my charges in proſecution.</hi> It's falſe that ever <hi>I</hi> made any motion to the Protector, in any buſineſs relating to my ſelf, after the Protector was made Protector, I not being free in my judgement and conſcience, to ſerve him either by Sea or Land. But <hi>I</hi> gather by this Charge, that his deſign is, to render me to be a lo<g ref="char:EOLhyphen"/>ver of the Protector as Protector, and ſo unamiable as to the preſent Authority: but the contrary to this, is known unto my acquaintance, whether Officers of the Army, or others, that I have ſtill upon all oc<g ref="char:EOLhyphen"/>caſions born a ſober Teſtimony againſt the Government of this Nation to be by a ſingle Perſon, as Lord Protector, or otherwiſe: <hi>I</hi> having of<g ref="char:EOLhyphen"/>ten jeoparded my life in the high places of the field, in the ſervice of the Commonwealth, firſt under his Excellencie the Earl of <hi>Eſſex,</hi> then ſome years in the Troop of the Right Honourable Colonel <hi>Nathaniel Rich,</hi> and in the Troop and Regiment of Colonel <hi>Reynolds,</hi> as Corporal and Quarter-maſter, and after that <hi>I</hi> was Lieutenant to a Militia Troop in <hi>Norfolk;</hi> and laſtly, ſome years Lieutenant to Lt. Colonel <hi>Joyce,</hi> the laſt ſervice that I was upon, being the reducement of the Iſland of <hi>Jerſey.</hi> But ſecondly, Lt. Colonel <hi>Joyce</hi> would be taken now for an enemy to the Protector, and therefore his ruine ſought, and thereby himſelf amiable to the preſent authority: but ſure he hath not taken the right way to accompliſh his deſire of vindication, and appear as he ſays, an honeſt man.</p>
+            <p>But whereas he falſly ſaith, <hi>That I not onely went to the Protector, but alſo claimed my promiſed Preferment;</hi> The promiſe was, <hi>That I ſhould fare never the worſe for</hi> Joyce<hi>'s wickedneſs,</hi> as is already declared: now for the word <hi>Preferment,</hi> it was not in my promiſe from the General; but it doth appear that Lt. Colonel <hi>Joyce</hi> concludes, That if General <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> did perform his promiſe, that then <hi>I</hi> muſt have ſome Preferment, or elſe this conſequence will follow, That <hi>I</hi> muſt needs fare the worſe for <hi>Joyce</hi>'s wickedneſs; which <hi>I</hi> muſt confeſs <hi>I</hi> did do, to the great impairing of my Eſtate, he putting me to great expences or charges, as he calls it, but not as Proſecutor. But whilſt <hi>Cromwel</hi> was General, <hi>I</hi> did ſeveral times after <hi>Joyce</hi> was caſhiered, and the Company reduced, wait upon him, who ſtill ſaid, He would take care for me: but having onely good words, <hi>I</hi> reſolved to wait no longer, having ſeveral invitations from o<g ref="char:EOLhyphen"/>thers; one from Lt. Colonel <hi>Maſon,</hi> who being in <hi>Scotland,</hi> and ſen<g ref="char:EOLhyphen"/>ſible of my Eſtate, ſent for me to come to him, giving me ſome encou<g ref="char:EOLhyphen"/>ragement thereunto; which was great refreſhment at that time unto me. But another friend, whoſe name was <hi>John Mouldam,</hi> then a Lieutenant of one of the States Ships, but a little before a Chaplain of the ſame Ship, prevailed with me to take his place; which <hi>I</hi> promiſed to do, and was accepted of by the Captain: but preſently after this, the Lord Ge<g ref="char:EOLhyphen"/>neral was made Protector: <hi>I</hi> then upon the account of conſcience deſer<g ref="char:EOLhyphen"/>ted that ſervice at Sea, to which, as premiſed, <hi>I</hi> was engaged: preſently
+<pb n="6" facs="tcp:168635:5"/>
+after taking the houſe where <hi>I</hi> now through mercie live, and the fifth of <hi>February</hi> following, opened the ſhop that <hi>I</hi> now keep; where through the bleſſing of GOD, <hi>I</hi> have ever ſince lived comfortably with my Family, and kept my ſoul clean from that Apoſtacie the Army in general, and many precious ſouls in it, as <hi>I</hi> judge, through many temptations fell in<g ref="char:EOLhyphen"/>to, and in whoſe return my ſoul hath much rejoyced.</p>
+            <p>But laſtly, whereas he ſaith, <hi>The Protector ſhould ſay, That I had not dealt like a Christian with Lt. Colonel</hi> Joyce; <hi>and that he thrust me out of his Chamber, and bid me go, like a Knave as I was; I</hi> anſwer, That Cap<g ref="char:EOLhyphen"/>tain <hi>Horſington,</hi> who Lt. Colonel <hi>Joyce</hi> ſaid he had theſe words from, hath denied it before witneſs, that ever he heard the words, or declared them; and there being no other proof, judge whether <hi>Joyce</hi> be an honeſt-man or a—to print ſuch lies as <hi>I</hi> do affirm they are.</p>
+            <p>Thus having diſcharged my duty, and declared the naked truth of things as acted by me, whether relating to my own defence againſt his unrighteous proceedings towards me, or for the diſcovering the falſeneſs of thoſe ſeveral particulars laid to my charge by him, in his late printed Paper, knowing that both of us one day muſt give an account for the deeds done in the fleſh, be they good, or be they evil, to GOD the righteous Judge of all men; it being the deſire of my ſoul to do nothing out of ſtrife or vain glory: <hi>I</hi> ſhall onely recommend ſuch as ſhall ſtill abide diſ-ſatisfied, as to the cauſe for which Lt. Colo<g ref="char:EOLhyphen"/>nel <hi>Joyce</hi> was caſhiered the Army, to the Judgement of the then Court-Martial, to juſtifie their proceedings againſt him, upon the ſeveral Ar<g ref="char:EOLhyphen"/>ticles exhibited by Serjeant <hi>Tho. Knight;</hi> as alſo of the verity of what I have here declared. And if Lt. Colonel <hi>Joyce</hi> ever intends his Vindi<g ref="char:EOLhyphen"/>cation, it muſt either be by his diſcovering his not being guilty of thoſe many Articles to which Evidence was given againſt him, and ſo the in<g ref="char:EOLhyphen"/>juſtice of the Court-Martial, in caſhiering of him without a cauſe; or if guilty, his hearty and unfeigned repentance, and return; through means of which, ſcarlet ſins may be made as white as Snow, and he thereby once more appear an honeſt man, as he deſireth in his paper.</p>
+            <p>Thus leaving what is declared to the bleſſing of Him who is able to make theſe lines effectual, for the true ſatisfaction of every ſober man, that is diſ-ſatisfied with the integrity of him, who is a lover of Juſtice, and a cordial well-wiſher to the proſperous ſtate of this Commonwealth,</p>
+            <closer>
+               <signed>Jo Rix.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſt ſcript.</head>
+            <div type="declaration">
+               <p>
+                  <hi>REader, whereas this paper is intituled</hi> Innocencie Vindicated, <hi>it is not without juſt cauſe, ſince two ſeveral meetings were appointed for Lt. Colonel</hi> Joyce <hi>to prove what he had charged againſt his Lt.</hi> viz. <hi>falſe ſwearing, and other evil behaviours, but could not make any ſuch thing appear. This I thought good to certifie (being preſent at the ſaid meetings) leſt any ſhould ſay, That the Author of this Vindication hath riſen too early in his own praiſe.</hi>
+               </p>
+               <closer>
+                  <signed>Jer. Ives.</signed> 
+                  <dateline>London,<date> June 22. 1659.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="declaration">
+               <p>
+                  <hi>Whereas Lt.</hi> Rix <hi>is charged by his late Lt. Colonel</hi> George Joyce, <hi>as guilty of falſe ſwearing, in a payer lately printed by his Order; upon and after twice hearing what could be alleadged by the ſaid Lt. Colonel by way of proof to the ſaid Charge, I do here<g ref="char:EOLhyphen"/>by declare, that what was urged by the ſaid Lt. Colonel did not evince to my conſci<g ref="char:EOLhyphen"/>ence that the ſaid Lt.</hi> Rix <hi>is guilty of that deteſtable abomination.</hi>
+               </p>
+               <closer>
+                  <signed>Edw. Harriſon.</signed>
+               </closer>
+            </div>
+            <div type="declaration">
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto a crime of falſe ſwearing, imputed unto, and charged upon Lt.</hi> Rix, <hi>in a cer<g ref="char:EOLhyphen"/>tain printed paper, He may plead, Not guilty, and ought to be cleared, notwithſtanding any teſtimony that I did hear brought againſt him, at the meeting, or elſewhere.</hi>
+               </p>
+               <closer>
+                  <signed>H. Denne</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
